@@ -38,9 +38,9 @@ const meuGrafico = new Chart (grafico, {
         "rgb (99,184,255)",
         "rgb (67,110,238)",
         "rgb (102,205,0s)",
-        ]
+        ],
     }]
   }
 }
-)
+);
 
